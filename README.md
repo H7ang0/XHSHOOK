@@ -18,12 +18,6 @@
 - iOS 版本 >= 11.0
 - 安装了 Cydia Substrate 或 Substitute
 
-## 安装方法
-
-1. 添加软件源到 Cydia/Sileo
-2. 搜索 "XYPHNoWatermark"
-3. 安装插件
-4. 重启设备 SpringBoard
 
 ## 手动构建
 
